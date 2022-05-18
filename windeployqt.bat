@@ -1,0 +1,2 @@
+"C:\Qt\Tools\QtDesignStudio\qt6_design_studio_reduced_version\bin\windeployqt.exe" --release --no-translations  --dir ..\doomlauncher_release "C:\Users\Pengu Mech\Documents\qt\build-DoomLauncher-Desktop_Qt_6_3_0_MSVC2019_64bit-Release\release\DoomLauncher.exe"
+copy "C:\Users\Pengu Mech\Documents\qt\build-DoomLauncher-Desktop_Qt_6_3_0_MSVC2019_64bit-Release\release\DoomLauncher.exe" ..\doomlauncher_release

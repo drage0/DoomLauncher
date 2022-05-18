@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow.png</file>
+        <file>icons/arrow-090.png</file>
+        <file>icons/arrow-270.png</file>
+        <file>icons/application--minus.png</file>
+        <file>icons/application--plus.png</file>
+        <file>icons/block.png</file>
+        <file>icons/block--minus.png</file>
+        <file>icons/block--plus.png</file>
+        <file>icons/pencil.png</file>
+        <file>icons/folder--minus.png</file>
+        <file>icons/folder--plus.png</file>
+        <file>icons/joystick.png</file>
+        <file>icons/rocket.png</file>
+        <file>icons/rocket-fly.png</file>
+        <file>icons/cross-script.png</file>
+        <file>icons/disk--pencil.png</file>
+        <file>icons/application-search-result.png</file>
+        <file>icons/shortcut-small.png</file>
+        <file>icons/hammer.png</file>
+        <file>icons/big jpeg.jpg</file>
+    </qresource>
+</RCC>
